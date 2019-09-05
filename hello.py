@@ -1,4 +1,4 @@
-x = eval(input('Enter a number : '))
+x = eval(input('välj ett tal som ska undersökas : '))
 g = 0.0 
 felmellanrum = 0.01
 nyaG = felmellanrum**2
